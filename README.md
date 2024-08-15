@@ -6,7 +6,7 @@ This project implements a Collision Prevention System for satellites, which pred
 
 ## Project Structure
 
-### Work Breakdown Structure (WBS)(./collision_prevention_system_wbs.jpg)
+### Work Breakdown Structure (WBS)
 
 The project is structured into distinct modules, each responsible for a specific aspect of the system:
 
@@ -28,7 +28,7 @@ The project is structured into distinct modules, each responsible for a specific
 
 ### Use Case Diagram
 
-![Use Case Diagram](./use_case_diagram.png)  
+![Use Case Diagram](https://github.com/rohan-mn/Collision-Prevention-System-for-Satellites-using-Space-Debris-Management/blob/831f390a22584ba0d6419ae0e14b7c7ffa58421c/Use%20case%20diagram.png)  
 The use case diagram outlines the primary interactions between the user and the system:
 
 1. **User Input**: The user provides initial satellite trajectory data.
