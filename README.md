@@ -7,6 +7,8 @@ This project implements a Collision Prevention System for satellites, which pred
 ## Project Structure
 
 ### Work Breakdown Structure (WBS)
+![image](https://github.com/user-attachments/assets/0f5549e3-e1a1-4aae-86b5-c1c9de33bfdd)
+
 
 The project is structured into distinct modules, each responsible for a specific aspect of the system:
 
